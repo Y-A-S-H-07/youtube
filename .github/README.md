@@ -337,4 +337,4 @@ _[Full list](https://github.com/ImprovedTube/YouTube/wiki/Features)_
      - 6.) Select the `manifest.json` file from unzipped folder
  </details>	
 
-
+.
